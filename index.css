@@ -1,0 +1,49 @@
+
+nav a {
+    margin: 0 5%;
+
+}
+.plans {
+    width:100px;
+    background-color:#FF764E;
+}
+
+.learn {
+    background-color:#5ED3EB;
+    width:140px;
+}
+
+.get {
+    background-color:#FFCD69;
+}
+
+.top-images nav{
+    text-align:center;
+    width:70%;
+}
+
+a{
+display:inline-block;
+padding:1%;
+padding-bottom:30px;
+margin:2% 7%;
+text-decoration:none;
+color:white;
+border-radius:20px;
+width:15%;
+}
+
+.pic {
+        border-radius: 50%;
+        width:20%;
+}
+
+
+.faire {
+    width:20%;
+    size:10%;
+}
+.title {
+    display:inline-block;
+    
+}
